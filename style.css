@@ -2,7 +2,7 @@ td {
     height: 150px;
     width: 150px;
     text-align: center;
-    border: 5px solid black !important;
+    border: 5px solid rgb(54, 127, 224) !important;
     font-size: 100px;
     border-width: 5px !important;
 }
