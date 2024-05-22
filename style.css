@@ -7,3 +7,13 @@ td {
     border-width: 5px !important;
 }
 
+#id{
+    color: aqua;
+    border-radius: 2rem;
+    border: none;
+    transition: all ease-in-out 0.6s;
+}
+
+#id:hover{
+    scale:1.09
+}
